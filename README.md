@@ -1,1 +1,2 @@
-# SafarIndia.github.io
+# Euro-Travels
+A Free Responsive Agency Template 
